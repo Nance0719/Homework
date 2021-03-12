@@ -77,7 +77,28 @@ main {
     margin-left: 20px;
 }
 
-element {
+/* Here I noticed that there was a ton of duplicate code.  For this
+I created a general class that could be applied to all links. */
+article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Here I set up these overrides to work for all links images and all links h2s */
+article img {
+    max-height: 200px;
+} 
+
+article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -88,43 +109,20 @@ element {
     background-color: #2589bd;
 }
 
-element .Items {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-element .Items h3 {
+aside section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-element .Items img {
+aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-
-/* Here I noticed that there was a ton of duplicate code.  For this
-I created a general class that could be applied to all links. */
-.links {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Here I set up these overrides to work for all links images and all links h2s */
-.links img {
-    max-height: 200px;
-} 
-
-.links h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Changed the header class to a footer tag and also changed the footer
