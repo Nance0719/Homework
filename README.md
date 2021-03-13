@@ -19,6 +19,8 @@ The objective in this project was to use the technique called.
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
+- [Screenshot](#screenshot)
+- [Website](#website)
 - [Credits](#credits)
 - [License](#license)
 ## Installation
@@ -41,6 +43,9 @@ https://bootcamp.unh.edu/
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 https://choosealicense.com/
+
+## Website
+https://nance0719.github.io/Homework/
 
 ## License
 MIT License
