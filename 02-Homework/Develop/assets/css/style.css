@@ -7,8 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Here I changed the .header class to the header tag which can then be styled 
-that way. */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* Here I changed the class here to the new header nav tags for easier readability. */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -77,8 +76,7 @@ main {
     margin-left: 20px;
 }
 
-/* Here I noticed that there was a ton of duplicate code.  For this
-I created a general class that could be applied to all links. */
+
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,7 +86,7 @@ article {
     color: #ffffff;
 }
 
-/* Here I set up these overrides to work for all links images and all links h2s */
+
 article img {
     max-height: 200px;
 } 
@@ -125,8 +123,7 @@ aside section img {
     max-width: 150px;
 }
 
-/* Changed the header class to a footer tag and also changed the footer
-h2 class to the tag footer with the h2 element */
+
 footer {
     padding: 30px;
     clear: both;
