@@ -33,8 +33,8 @@ Once pulled over from gitHub onto your local machine.
 ## Screenshot
 Here is a screenshot of the actual webpage.
  
- ![This is a screen shot of my webpage](\assets\images\Webpage_screenshot.png)
-    ```
+ ![Screenshot](.\assets\images\Webpage_screenshot.png)
+<br>
 ## Credits
 https://bootcamp.unh.edu/ 
 
