@@ -1,10 +1,5 @@
 # <Your-Project-Title>
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 The objective in this project was to use the technique called.
 **Refactoring** which is improving existing code without changing what it does to meet a certain set of standards or to implement a new technology.  These were the steps I took refactor this code.
