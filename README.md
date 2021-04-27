@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Code Refactoring
 ## Description
 
 The objective in this project was to use the technique called.
@@ -40,7 +40,7 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 https://choosealicense.com/
 
 ## Website
-https://coreynance.github.io/Homework/
+https://coreynance.github.io/Code_Refactor/
 
 ## License
 MIT License
